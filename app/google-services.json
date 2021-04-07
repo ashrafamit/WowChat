@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855012380296",
+    "firebase_url": "https://wowchat-2f2ae.firebaseio.com",
+    "project_id": "wowchat-2f2ae",
+    "storage_bucket": "wowchat-2f2ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855012380296:android:309bc6783fc2a39924193d",
+        "android_client_info": {
+          "package_name": "com.ex3.wowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855012380296-l964pp1hfm8ke2kvkmgadbskbqd7a272.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ex3.wowchat",
+            "certificate_hash": "f31e534dea70a64bf56cca5579b477c787a5f9af"
+          }
+        },
+        {
+          "client_id": "855012380296-7qb7oj07vlhh1t58eq5tivk1ksetfdg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeGqOmxt3lhJur9i0z3XWLOHK0o6bziaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855012380296-7qb7oj07vlhh1t58eq5tivk1ksetfdg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
